@@ -6,7 +6,8 @@ This folder contains the port of TinyUF2 for Analog Devices' MAX78002 MCU.
 
 - [Requirements](#requirements)
   - [Requirements for Linux/macOS (Generic)](#requirements-for-linuxmacos-generic)
-  - [MSDK Windows Environment Setup](#msdk-windows-environment-setup)
+  - [Requirements for Windows (Using MSDK — Optional)](#requirements-for-windows-using-msdk--optional)
+- [MSDK Windows Environment Setup](#msdk-windows-environment-setup)
 - [Available Boards](#available-boards)
 - [Building the Bootloader](#building-the-bootloader)
 - [Building Demo Applications](#building-demo-applications)
